@@ -1,0 +1,12 @@
+{
+  "name": "gsb153-seqlock",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "description": "GSB153 代码理解题：审查 seqlock 顺序锁实现",
+  "dependencies": {},
+  "scripts": {
+    "test": "node --test",
+    "check": "node check/check.mjs"
+  }
+}
